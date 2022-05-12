@@ -1,0 +1,34 @@
+/* btn*/
+h1{
+  font-weight: bold;
+  font-size:30px ;
+ font-family: serif;
+
+}
+.btn{
+    
+    margin-top:5px ;
+}
+.btn-hero a{
+    text-decoration: none;
+    color: rgb(195, 215, 215);
+
+}
+.btn-hero i{
+    padding-left: 2px;
+ 
+    
+}
+/* end*/
+.bg-info1{
+    background-color: rgb(32, 108, 108);
+}
+
+
+#headerhome .carousel-control-next-icon::after{
+    content: none;
+  }
+
+#headerhome .carousel-control-prev-icon::after{
+    content: none;
+  }
