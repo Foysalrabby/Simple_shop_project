@@ -59,3 +59,15 @@ h1{
     border-radius: 10%;
  
 }
+.bg-info13{
+
+    background-color:#e9edea85;
+}
+.bg-light1{
+
+    background-color:#f5f5ef85;
+}
+#contact11 .btn-floating .fab, .btn-floating .far, .btn-floating .fas{
+width: 0.313rem;
+line-height: 1.687rem;
+}
