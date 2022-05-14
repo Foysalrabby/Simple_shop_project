@@ -32,3 +32,30 @@ h1{
 #headerhome .carousel-control-prev-icon::after{
     content: none;
   }
+/* headerhome11*/
+
+.bg-info11 {
+    background-color: rgb(241, 232, 237);
+}
+.cat1{
+    background-color: rgb(241, 238, 86); 
+    border-radius: 10%;
+    padding-right: 3px;
+   
+    
+}
+
+.cat2{
+    background-color:#D6C2BA; 
+    border-radius: 10%;
+ 
+}
+.cat3{
+    background-color: #FC6245; 
+    border-radius: 10%;
+}
+.cat4{
+    background-color:#92B197;
+    border-radius: 10%;
+ 
+}
